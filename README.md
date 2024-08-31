@@ -12,7 +12,7 @@ A simple ToDo application built with Flutter. This app allows users to add, view
 
 ## Screenshots
 
-![Home Screen](assets/screenshots/home.png)  
+![Home Screen](assets/screenshots/home1.png)  
 *Home Screen*
 
 ![Add Task Screen](assets/screenshots/add_task.png)  
