@@ -67,14 +67,6 @@ Contributions are welcome! Please follow these steps to contribute:
 5. Push to the branch (`git push origin feature/your-feature`).
 6. Create a new Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
-For any questions or feedback, please reach out to [your.email@example.com](mailto:your.email@example.com).
-
----
-
-Replace `https://github.com/yourusername/my_todo_app.git` with the actual URL of your GitHub repository and `your.email@example.com` with your actual email address. Additionally, you can add actual screenshots to the `assets/screenshots` directory if you have them.
+For any questions or feedback, please reach out to [utsavpathak59@gmail.com](mailto:utsavpathak59@gmail.com).
