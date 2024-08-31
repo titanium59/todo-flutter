@@ -1,7 +1,3 @@
-Certainly! Here's a GitHub README for your ToDo app:
-
----
-
 # My ToDo App
 
 A simple ToDo application built with Flutter. This app allows users to add, view, and delete tasks with different priority levels.
